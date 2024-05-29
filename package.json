@@ -1,0 +1,19 @@
+{
+  "name": "@damiencassu/node-syslogger",
+  "version": "1.0.0",
+  "description": "Simple file logging module for node server messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiencassu/node-syslogger.git"
+  },
+  "author": "Damien CASSU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damiencassu/node-syslogger/issues"
+  },
+  "homepage": "https://github.com/damiencassu/node-syslogger#readme"
+}
